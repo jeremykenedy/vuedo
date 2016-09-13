@@ -1,4 +1,4 @@
-@extends('themes.clean-blog.partials.layout')
+@extends('themes.clean-blog.layouts.default')
 
 @section("header")
     <!-- Page Header -->
